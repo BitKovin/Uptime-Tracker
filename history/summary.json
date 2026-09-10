@@ -4,17 +4,17 @@
     "url": "https://funky.yuzhda.com/",
     "icon": "https://icons.duckduckgo.com/ip3/funky.yuzhda.com.ico",
     "slug": "funky",
-    "status": "down",
+    "status": "up",
     "uptime": "85.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.66%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "97.50%",
     "uptimeMonth": "51.97%",
-    "uptimeYear": "71.43%",
-    "time": 3349,
-    "timeDay": 16110,
-    "timeWeek": 13821,
-    "timeMonth": 9309,
-    "timeYear": 4343,
+    "uptimeYear": "71.42%",
+    "time": 3370,
+    "timeDay": 14997,
+    "timeWeek": 13726,
+    "timeMonth": 9408,
+    "timeYear": 4363,
     "dailyMinutesDown": {
       "2025-10-22": 255,
       "2025-10-23": 216,
@@ -140,7 +140,8 @@
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 647,
-      "2026-09-07": 236
+      "2026-09-07": 236,
+      "2026-09-10": 16
     }
   }
 ]
