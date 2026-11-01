@@ -6,12 +6,12 @@
     "slug": "funky",
     "status": "down",
     "uptime": "86.71%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "71.56%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "99.29%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "71.54%",
     "time": 4429,
-    "timeDay": 16351,
+    "timeDay": 19330,
     "timeWeek": 13698,
     "timeMonth": 12957,
     "timeYear": 5775,
@@ -139,7 +139,7 @@
       "2026-07-02": 647,
       "2026-09-07": 236,
       "2026-09-10": 16,
-      "2026-11-01": 0
+      "2026-11-01": 71
     }
   }
 ]
